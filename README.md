@@ -28,7 +28,7 @@
   <h2>About The Project</h2>
 
   <p>
-    <img src="https://github.com/NurhayatYurtaslan/flutter_gridview/assets/80510115/67fe07b9-7959-43b5-a90d-6a00b89af1f4" alt="Screenshot_1695751983" width: 150>
+    <img src="https://github.com/NurhayatYurtaslan/flutter_gridview/assets/80510115/67fe07b9-7959-43b5-a90d-6a00b89af1f4" alt="Screenshot_1695751983"  height="300">
     <br>
     flutter_gridview is a starting point for developing your own Flutter application. It provides a solid foundation and boilerplate code to kickstart your project.
   </p>
