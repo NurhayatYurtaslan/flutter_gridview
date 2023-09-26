@@ -50,7 +50,7 @@
 
   <ol>
     <li>Clone the repository<br>
-      <code>git clone https://github.com/your_username/repo_name.git</code>
+      <code>git clone https://github.com/NurhayatYurtaslan/flutter_gridview.git</code>
     </li>
     <li>Install dependencies<br>
       <code>flutter pub get</code>
